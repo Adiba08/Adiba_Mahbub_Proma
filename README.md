@@ -1,6 +1,7 @@
 ## About Me 
 ## Educational History 
 **Bachelor of Science in Computer Science and Engineering, BRAC University**
+
 **CGPA: 3.97/4**
 - Highest Distinction (Awarded to students graduating with CGPA greater than 3.8) 
 - VC’s list for 8 semesters (Awarded to students with GPA greater than 3.9) 
