@@ -54,9 +54,9 @@ for print and online platform (click here for all published articles)
 
 *The Daily Star is one of the leading English newspapers of Bangladesh*
 
-### Co-author, The Mason Jar by Worthy Publications 
-*The Mason Jar is a collection of short stories published by Worthy Publications, a local publishing house 
+### Co-author, The Mason Jar by Worthy Publications  
 - Wrote two short stories The Swings and Build-a-Bae
+*The Mason Jar is a collection of short stories published by Worthy Publications, a local publishing house*
 
 ### Feature Editor, BRACUExpress
 **Role:**
