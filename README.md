@@ -11,6 +11,7 @@
 
 ### Contractual Lecturer, BRAC University  
 **Courses conducted:** Introduction to computing (CSE101), Data Structures (CSE220), Algorithms (CSE221), Microprocessors (CSE341), Compilers (CSE420) 
+
 **Role:** 
 - Teaching both theory and lab classes of 40 students
 - Conducting online classes during COVID-19 Pandemic
