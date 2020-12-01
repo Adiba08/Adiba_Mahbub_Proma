@@ -1,4 +1,10 @@
 ## About Me 
+My research interests lie in the subfield of AI, with a special focus on Machine learning, Deep Learning, Computer Vision and NLP. I'm also interested in interdisciplinary research. You can learn more about my research experiences here. You can also check out my github link. 
+
+With four years of writing experience in Lifestyle, The Daily Star, which is one of the leading English newspapers in Bangladesh, I'm also very passionate about writing, especially feature writing and fiction-writing. You can learn more about my writing experiences here, or check out my blogs here. 
+
+Whether you need someone for a short-term project or a long-term collaboration or simply to discuss the exciting work you're doing, I’d love to hear from you. You can contact me through email. 
+
 ## Educational History 
 **Bachelor of Science in Computer Science and Engineering, BRAC University**
 
@@ -8,7 +14,7 @@
 - Dean’s list for 2 semesters (Awarded to students with GPA between 3.70 - 3.89) 
 
 ## Previous Experiences 
-
+For complete CV, click here. 
 ### Contractual Lecturer, BRAC University  
 **Courses conducted:** Introduction to computing (CSE101), Data Structures (CSE220), Algorithms (CSE221), Microprocessors (CSE341), Compilers (CSE420) 
 
