@@ -1,4 +1,4 @@
-## About Me 
+
 My research interests lie in the subfield of AI, with a special focus on Machine learning, Deep Learning, Computer Vision and NLP. I'm also interested in interdisciplinary research. You can learn more about my research experiences here. You can also check out my github link. 
 
 With four years of writing experience in Lifestyle, The Daily Star, which is one of the leading English newspapers in Bangladesh, I'm also very passionate about writing, especially feature writing and fiction-writing. You can learn more about my writing experiences here, or check out my blogs here. 
