@@ -1,4 +1,3 @@
-# Adiba Mahbub Proma
 ## About Me 
 ## Educational History 
 **Bachelor of Science in Computer Science and Engineering, BRAC University**
@@ -7,10 +6,10 @@
 - VC’s list for 8 semesters (Awarded to students with GPA greater than 3.9) 
 - Dean’s list for 2 semesters (Awarded to students with GPA between 3.70 - 3.89) 
 
-## Previous Experiences
+## Previous Experiences 
 
 ### Contractual Lecturer, BRAC University  
-**Courses conducted:** Introduction to computing (CSE101), Data Structures (CSE220), Algorithms (CSE221)
+**Courses conducted:** Introduction to computing (CSE101), Data Structures (CSE220), Algorithms (CSE221), Microprocessors (CSE341), Compilers (CSE420) 
 **Role:** 
 - Teaching both theory and lab classes of 40 students
 - Conducting online classes during COVID-19 Pandemic
@@ -30,7 +29,15 @@
 
 *BRAC Skills Development Program is an initiative by BRAC NGO to increase the job placement rate of workers in the informal sector and reduce youth unemployment*
 
-### Feature Writer, The Daily Star 
+### Student Tutor, BRAC University 
+**Courses conducted:** Programming Language I (CSE161- Basic Programming in Java), Data Structures (CSE220), Digital Logic Design (CSE260)
+**Role:** 
+- Provided one-on-one and group consultation to students on course topics
+- Assisted course instructors in conducting the labs
+- Evaluated students by grading assignments and quizzes, and provided feedback on their work
+
+## Writing Experiences 
+### Feature Writer, The Daily Star (Lifestyle and Next Step) 
 **Role:**
 - Researched on local and international trends and collaborated with other writers
 to generate ideas for the weekly sections Lifestyle and Next Step
@@ -38,3 +45,24 @@ to generate ideas for the weekly sections Lifestyle and Next Step
 for print and online platform (click here for all published articles)
 
 *The Daily Star is one of the leading English newspapers of Bangladesh*
+
+### Co-author, The Mason Jar by Worthy Publications 
+*The Mason Jar is a collection of short stories published by Worthy Publications, a local publishing house 
+- Wrote two short stories The Swings and Build-a-Bae
+
+### Feature Editor, BRACUExpress
+**Role:**
+- Generated content for the features page
+- Contributed to administrative decisions regarding the paper as part of the Editorial Board 
+- Supervised writers and designers
+- Edited articles 
+
+*BRACUExpress is the student-led campus newspaper of BRAC University*
+
+### Contributor, BRACUExpress
+**Role:**
+- Generated content for the features page
+- Contributed to administrative decisions regarding the paper as part of the Editorial Board 
+- Supervised writers and designers
+- Edited articles 
+
