@@ -26,7 +26,7 @@ For complete CV, click here.
 
 *BRAC University is a private university located in Dhaka, Bangladesh.*
 
-### Intern, Technology for Development Unit, BRAC Skills Development Program, BRAC NGO
+### Intern, Technology for Development Unit, [BRAC Skills Development Program](http://www.brac.net/program/skills-development/), [BRAC](http://www.brac.net/)
 **Role:** 
 - Analysed the behaviour of debtors in the BRAC PROMISE project and came up with data visualization methods using Tableau to aid managers in optimizing their field operations
 - Designed an intelligent system for the field-level operations team in BRAC PROMISE project to predict the loan eligibility of a person based on the behavior of previous debtors by using ensemble learning algorithms
