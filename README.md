@@ -6,7 +6,7 @@ With four years of writing experience in Lifestyle, The Daily Star, which is one
 Whether you need someone for a short-term project or a long-term collaboration or simply to discuss the exciting work you're doing, I’d love to hear from you. You can contact me through email. 
 
 ## Educational History 
-**Bachelor of Science in Computer Science and Engineering, [BRAC University](https://www.bracu.ac.bd/)**
+### **Bachelor of Science in Computer Science and Engineering, [BRAC University](https://www.bracu.ac.bd/)**
 
 **CGPA: 3.97/4**
 - Highest Distinction (Awarded to students graduating with CGPA greater than 3.8) 
