@@ -1,12 +1,12 @@
 
 My research interests lie in the subfield of AI, with a special focus on Machine learning, Deep Learning, Computer Vision and NLP. I'm also interested in interdisciplinary research. You can learn more about my research experiences here. You can also check out my [github link](https://github.com/Adiba08). 
 
-With four years of writing experience in Lifestyle, The Daily Star, which is one of the leading English newspapers in Bangladesh, I'm also very passionate about writing, especially feature writing and fiction-writing. You can learn more about my writing experiences here, or check out my blogs here. 
+With four years of writing experience in Lifestyle, The Daily Star, which is one of the leading English newspapers in Bangladesh, I'm also very passionate about writing, especially feature writing and fiction-writing. You can learn more about my writing experiences here, or check out my [blog](https://medium.com/@adiba.proma). 
 
-Whether you need someone for a short-term project or a long-term collaboration or simply to discuss the exciting work you're doing, I’d love to hear from you. You can contact me through email. 
+Whether you need someone for a short-term project or a long-term collaboration or simply to discuss the exciting work you're doing, I’d love to hear from you. You can contact me through email at <proma.adiba@gmail.com>. 
 
 ## Educational History 
-### **Bachelor of Science in Computer Science and Engineering, [BRAC University](https://www.bracu.ac.bd/)**
+### **Bachelor of Science in Computer Science and Engineering, [BRAC University](https://www.bracu.ac.bd/), *(Jan 2016-Dec 2019)* **
 
 **CGPA: 3.97/4**
 - Highest Distinction (Awarded to students graduating with CGPA greater than 3.8) 
