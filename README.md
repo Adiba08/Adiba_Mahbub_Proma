@@ -6,12 +6,16 @@ With four years of writing experience in Lifestyle, The Daily Star, which is one
 Whether you need someone for a short-term project or a long-term collaboration or simply to discuss the exciting work you're doing, I’d love to hear from you. You can contact me through email at <proma.adiba@gmail.com>. 
 
 ## Educational History 
-### **Bachelor of Science in Computer Science and Engineering, [BRAC University](https://www.bracu.ac.bd/), *(Jan 2016-Dec 2019)* **
+### Bachelor of Science in Computer Science and Engineering, [BRAC University](https://www.bracu.ac.bd/), *(Jan 2016-Dec 2019)*
 
 **CGPA: 3.97/4**
 - Highest Distinction (Awarded to students graduating with CGPA greater than 3.8) 
 - VC’s list for 8 semesters (Awarded to students with GPA greater than 3.9) 
 - Dean’s list for 2 semesters (Awarded to students with GPA between 3.70 - 3.89) 
+
+## Research 
+### Analyzing Ensemble Learning Algorithms using Cluster Analysis of Binary Classification Problems
+We analysed the accuracy and time complexity of ensemble learners, and then came up with an algorithm to decide what learner would work best for a specific problem in a low-resource setting. Our research involved conducting multivariate statistical analysis on binary classification datasets, and clustering via Self-Organizing Maps to  generate our rule-based algorithm.
 
 ## Previous Experiences 
 For complete CV, click here. 
