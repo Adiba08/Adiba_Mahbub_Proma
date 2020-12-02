@@ -1,5 +1,5 @@
 
-My research interests lie in the subfield of AI, with a special focus on Machine learning, Deep Learning, Computer Vision and NLP. I'm also interested in interdisciplinary research. You can learn more about my research experiences here. You can also check out my github link. 
+My research interests lie in the subfield of AI, with a special focus on Machine learning, Deep Learning, Computer Vision and NLP. I'm also interested in interdisciplinary research. You can learn more about my research experiences here. You can also check out my [github link]{https://github.com/Adiba08}. 
 
 With four years of writing experience in Lifestyle, The Daily Star, which is one of the leading English newspapers in Bangladesh, I'm also very passionate about writing, especially feature writing and fiction-writing. You can learn more about my writing experiences here, or check out my blogs here. 
 
@@ -45,6 +45,7 @@ For complete CV, click here.
 - Evaluated students by grading assignments and quizzes, and provided feedback on their work
 
 ## Writing Experiences 
+You can check out a full profile of all my published writings [here](https://muckrack.com/adiba-proma). You can also check out my [medium blog](https://medium.com/@adiba.proma).  
 ### Feature Writer, The Daily Star (Lifestyle and Next Step) 
 **Role:**
 - Researched on local and international trends and collaborated with other writers
@@ -74,3 +75,7 @@ for print and online platform (click here for all published articles)
 - Supervised writers and designers
 - Edited articles 
 
+## Additional Experiences/ Extracurricular Activities 
+### 2019 University Rover Challenge
+**Role:** General member of the Writing team for [BRACU Mongol Tori](http://www.bracumongoltori.com/)
+*BRACU Mongol-Tori is a student-led, university-sponsored design team to build Mars Rover systems to compete in University Rover challenges across the world*
