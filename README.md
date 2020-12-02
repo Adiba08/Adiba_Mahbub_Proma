@@ -6,7 +6,7 @@ With four years of writing experience in Lifestyle, The Daily Star, which is one
 Whether you need someone for a short-term project or a long-term collaboration or simply to discuss the exciting work you're doing, I’d love to hear from you. You can contact me through email. 
 
 ## Educational History 
-#### **Bachelor of Science in Computer Science and Engineering, [BRAC University](https://www.bracu.ac.bd/)**
+### **Bachelor of Science in Computer Science and Engineering, [BRAC University](https://www.bracu.ac.bd/)**
 
 **CGPA: 3.97/4**
 - Highest Distinction (Awarded to students graduating with CGPA greater than 3.8) 
@@ -15,7 +15,7 @@ Whether you need someone for a short-term project or a long-term collaboration o
 
 ## Previous Experiences 
 For complete CV, click here. 
-#### Contractual Lecturer, [BRAC University](https://www.bracu.ac.bd/)  
+### Contractual Lecturer, [BRAC University](https://www.bracu.ac.bd/)  
 **Courses conducted:** Introduction to computing (CSE101), Data Structures (CSE220), Algorithms (CSE221), Microprocessors (CSE341), Compilers (CSE420) 
 
 **Role:** 
@@ -26,7 +26,7 @@ For complete CV, click here.
 
 *BRAC University is a private university located in Dhaka, Bangladesh.*
 
-#### Intern, Technology for Development Unit, [BRAC Skills Development Program](http://www.brac.net/program/skills-development/), [BRAC](http://www.brac.net/)
+### Intern, Technology for Development Unit, [BRAC Skills Development Program](http://www.brac.net/program/skills-development/), [BRAC](http://www.brac.net/)
 **Role:** 
 - Analysed the behaviour of debtors in the BRAC PROMISE project and came up with data visualization methods using Tableau to aid managers in optimizing their field operations
 - Designed an intelligent system for the field-level operations team in BRAC PROMISE project to predict the loan eligibility of a person based on the behavior of previous debtors by using ensemble learning algorithms
@@ -37,25 +37,26 @@ For complete CV, click here.
 
 *BRAC Skills Development Program is an initiative by BRAC NGO to increase the job placement rate of workers in the informal sector and reduce youth unemployment*
 
-#### Student Tutor, [BRAC University](https://www.bracu.ac.bd/) 
+### Student Tutor, [BRAC University](https://www.bracu.ac.bd/) 
 **Courses conducted:** Programming Language I (CSE161- Basic Programming in Java), Data Structures (CSE220), Digital Logic Design (CSE260)
 **Role:** 
 - Provided one-on-one and group consultation to students on course topics
 - Assisted course instructors in conducting the labs
 - Evaluated students by grading assignments and quizzes, and provided feedback on their work
 
-### Selected Course Projects 
-#### FIREBOT: A REMOTE-CONTROLLED ASSISTING ROBOT FOR RESCUE MISSIONS
+## Selected Course Projects 
+### FIREBOT: A REMOTE-CONTROLLED ASSISTING ROBOT FOR RESCUE MISSIONS
 We proposed the usage of an innovative and yet simple robot to tackle fire incidents that has become a recurrent disaster in rapidly urbanizing cities such as Dhaka. The robot, which is to be controlled via a Bluetooth module, will be equipped with three sensors- the flame sensor, smoke sensor and temperature and humidity sensor- to detect the danger level of the fire and provide the necessary data required for firefighters to be properly equipped before they enter a burning building and thus avoid further injury. The robot does this by sending data that it gets from the sensors to a remote desktop monitor via Wi-Fi. As a result, the robot will help bridge the information gap between the time residents go out and the time the firefighters reach the scene. Click here for more information. 
 **Programming Language:** Arduino 
 
-#### Bengali Character-Recognition using Neural Networks 
+### Bengali Character-Recognition using Neural Networks 
 We used LSTM, GRU, CNN and MLP on image data of Bengali words to extract Bengali letters from those words. 
+
 **Programming Language:** Python, **Framework:** Tensorflow, Scikit-learn, **Libraries:** Keras 
 
-### Writing Experiences 
+## Writing Experiences 
 You can check out a full profile of all my published writings [here](https://muckrack.com/adiba-proma). You can also check out my [medium blog](https://medium.com/@adiba.proma).  
-#### Feature Writer, [The Daily Star]https://www.thedailystar.net/ ([Lifestyle](https://www.thedailystar.net/lifestyle) and [Next Step](https://www.thedailystar.net/next-step)) 
+### Feature Writer, [The Daily Star]https://www.thedailystar.net/ ([Lifestyle](https://www.thedailystar.net/lifestyle) and [Next Step](https://www.thedailystar.net/next-step)) 
 **Role:**
 - Researched on local and international trends and collaborated with other writers
 to generate ideas for the weekly sections Lifestyle and Next Step
@@ -63,11 +64,11 @@ to generate ideas for the weekly sections Lifestyle and Next Step
 
 *The Daily Star is one of the leading English newspapers of Bangladesh*
 
-#### Co-author, The Mason Jar by Worthy Publications  
+### Co-author, The Mason Jar by Worthy Publications  
 - Wrote two short stories The Swings and Build-a-Bae
 *The Mason Jar is a collection of short stories published by Worthy Publications, a local publishing house*
 
-#### Feature Editor, BRACUExpress
+### Feature Editor, BRACUExpress
 **Role:**
 - Generated content for the features page
 - Contributed to administrative decisions regarding the paper as part of the Editorial Board 
@@ -76,15 +77,15 @@ to generate ideas for the weekly sections Lifestyle and Next Step
 
 *BRACUExpress is the student-led campus newspaper of BRAC University*
 
-#### Contributor, BRACUExpress
+### Contributor, BRACUExpress
 **Role:**
 - Generated content for the features page
 - Contributed to administrative decisions regarding the paper as part of the Editorial Board 
 - Supervised writers and designers
 - Edited articles 
 
-### Additional Experiences/ Extracurricular Activities 
-#### 2019 University Rover Challenge
+## Additional Experiences/ Extracurricular Activities 
+### 2019 University Rover Challenge
 **Role:** General member of the Writing team for [BRACU Mongol Tori](http://www.bracumongoltori.com/)
 
 *BRACU Mongol-Tori is a student-led, university-sponsored design team to build Mars Rover systems to compete in University Rover challenges across the world*
