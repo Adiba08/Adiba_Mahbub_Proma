@@ -6,7 +6,7 @@ With four years of writing experience in Lifestyle, The Daily Star, which is one
 Whether you need someone for a short-term project or a long-term collaboration or simply to discuss the exciting work you're doing, I’d love to hear from you. You can contact me through email. 
 
 ## Educational History 
-**Bachelor of Science in Computer Science and Engineering, BRAC University**
+**Bachelor of Science in Computer Science and Engineering, [BRAC University](https://www.bracu.ac.bd/)**
 
 **CGPA: 3.97/4**
 - Highest Distinction (Awarded to students graduating with CGPA greater than 3.8) 
@@ -15,7 +15,7 @@ Whether you need someone for a short-term project or a long-term collaboration o
 
 ## Previous Experiences 
 For complete CV, click here. 
-### Contractual Lecturer, BRAC University  
+### Contractual Lecturer, [BRAC University](https://www.bracu.ac.bd/)  
 **Courses conducted:** Introduction to computing (CSE101), Data Structures (CSE220), Algorithms (CSE221), Microprocessors (CSE341), Compilers (CSE420) 
 
 **Role:** 
@@ -37,7 +37,7 @@ For complete CV, click here.
 
 *BRAC Skills Development Program is an initiative by BRAC NGO to increase the job placement rate of workers in the informal sector and reduce youth unemployment*
 
-### Student Tutor, BRAC University 
+### Student Tutor, [BRAC University](https://www.bracu.ac.bd/) 
 **Courses conducted:** Programming Language I (CSE161- Basic Programming in Java), Data Structures (CSE220), Digital Logic Design (CSE260)
 **Role:** 
 - Provided one-on-one and group consultation to students on course topics
@@ -46,12 +46,11 @@ For complete CV, click here.
 
 ## Writing Experiences 
 You can check out a full profile of all my published writings [here](https://muckrack.com/adiba-proma). You can also check out my [medium blog](https://medium.com/@adiba.proma).  
-### Feature Writer, The Daily Star (Lifestyle and Next Step) 
+### Feature Writer, [The Daily Star]https://www.thedailystar.net/ ([Lifestyle](https://www.thedailystar.net/lifestyle) and [Next Step](https://www.thedailystar.net/next-step)) 
 **Role:**
 - Researched on local and international trends and collaborated with other writers
 to generate ideas for the weekly sections Lifestyle and Next Step
-- Wrote articles related to social issues, career development, musings, and lifestyle
-for print and online platform (click here for all published articles)
+- Wrote articles related to social issues, career development, musings, and lifestyle for print and online platform (click [here](https://www.thedailystar.net/author/adiba-mahbub-proma) for all published articles)
 
 *The Daily Star is one of the leading English newspapers of Bangladesh*
 
