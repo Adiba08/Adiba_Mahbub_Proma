@@ -41,8 +41,9 @@ For complete CV, click here.
 - Evaluated students by grading assignments and quizzes, and provided feedback on their work
 
 ## Selected Course Projects 
-### FIREBOT: A REMOTE-CONTROLLED ASSISTING ROBOT FOR RESCUE MISSIONS
-We proposed the usage of an innovative and yet simple robot to tackle fire incidents that has become a recurrent disaster in rapidly urbanizing cities such as Dhaka. The robot, which is to be controlled via a Bluetooth module, will be equipped with three sensors- the flame sensor, smoke sensor and temperature and humidity sensor- to detect the danger level of the fire and provide the necessary data required for firefighters to be properly equipped before they enter a burning building and thus avoid further injury. The robot does this by sending data that it gets from the sensors to a remote desktop monitor via Wi-Fi. As a result, the robot will help bridge the information gap between the time residents go out and the time the firefighters reach the scene. Click here for more information. 
+### Firebot: A remote-controlled assisting robot for rescue missions 
+We proposed the usage of an innovative and yet simple robot to tackle fire incidents that has become a recurrent disaster in rapidly urbanizing cities such as Dhaka. The robot, which is to be controlled via a Bluetooth module, will be equipped with three sensors- the flame sensor, smoke sensor and temperature and humidity sensor- to detect the danger level of the fire and provide the necessary data required for firefighters to be properly equipped before they enter a burning building and thus avoid further injury. The robot does this by sending data that it gets from the sensors to a remote desktop monitor via Wi-Fi. As a result, the robot will help bridge the information gap between the time residents go out and the time the firefighters reach the scene. Click here for more information.
+
 **Programming Language:** Arduino 
 
 ### Bengali Character-Recognition using Neural Networks 
@@ -52,7 +53,7 @@ We used LSTM, GRU, CNN and MLP on image data of Bengali words to extract Bengali
 
 ## Writing Experiences 
 You can check out a full profile of all my published writings [here](https://muckrack.com/adiba-proma). You can also check out my [medium blog](https://medium.com/@adiba.proma).  
-### Feature Writer, [The Daily Star] (https://www.thedailystar.net/) ([Lifestyle](https://www.thedailystar.net/lifestyle) and [Next Step](https://www.thedailystar.net/next-step)) 
+### Feature Writer, [The Daily Star](https://www.thedailystar.net/) ([Lifestyle](https://www.thedailystar.net/lifestyle) and [Next Step](https://www.thedailystar.net/next-step)) 
 - Researched on local and international trends and collaborated with other writers
 to generate ideas for the weekly sections Lifestyle and Next Step
 - Wrote articles related to social issues, career development, musings, and lifestyle for print and online platform (click [here](https://www.thedailystar.net/author/adiba-mahbub-proma) for all published articles)
@@ -63,7 +64,7 @@ to generate ideas for the weekly sections Lifestyle and Next Step
 - Wrote two short stories The Swings and Build-a-Bae
 *The Mason Jar is a collection of short stories published by Worthy Publications, a local publishing house*
 
-### Feature Editor, BRACUExpress
+### Feature Editor, BRACUExpress (June 2017-August 2018)
 - Generated content for the features page
 - Contributed to administrative decisions regarding the paper as part of the Editorial Board 
 - Supervised writers and designers
@@ -71,7 +72,7 @@ to generate ideas for the weekly sections Lifestyle and Next Step
 
 *BRACUExpress is the student-led campus newspaper of BRAC University*
 
-### Contributor, BRACUExpress
+### Contributor, BRACUExpress 
 - Generated content for the features page
 - Contributed to administrative decisions regarding the paper as part of the Editorial Board 
 - Supervised writers and designers
