@@ -17,8 +17,6 @@ Whether you need someone for a short-term project or a long-term collaboration o
 For complete CV, click here. 
 ### Contractual Lecturer, [BRAC University](https://www.bracu.ac.bd/)  
 **Courses conducted:** Introduction to computing (CSE101), Data Structures (CSE220), Algorithms (CSE221), Microprocessors (CSE341), Compilers (CSE420) 
-
-**Role:** 
 - Teaching both theory and lab classes of 40 students
 - Conducting online classes during COVID-19 Pandemic
 - Evaluating students and providing feedback through assignments, quizzes, and so on (both online and in-person)
@@ -27,7 +25,6 @@ For complete CV, click here.
 *BRAC University is a private university located in Dhaka, Bangladesh.*
 
 ### Intern, Technology for Development Unit, [BRAC Skills Development Program](http://www.brac.net/program/skills-development/), [BRAC](http://www.brac.net/)
-**Role:** 
 - Analysed the behaviour of debtors in the BRAC PROMISE project and came up with data visualization methods using Tableau to aid managers in optimizing their field operations
 - Designed an intelligent system for the field-level operations team in BRAC PROMISE project to predict the loan eligibility of a person based on the behavior of previous debtors by using ensemble learning algorithms
 - Analysed data to determine how the COVID-19 pandemic affected people’s income to aid the action plans of BRAC policy makers
@@ -39,7 +36,6 @@ For complete CV, click here.
 
 ### Student Tutor, [BRAC University](https://www.bracu.ac.bd/) 
 **Courses conducted:** Programming Language I (CSE161- Basic Programming in Java), Data Structures (CSE220), Digital Logic Design (CSE260)
-**Role:** 
 - Provided one-on-one and group consultation to students on course topics
 - Assisted course instructors in conducting the labs
 - Evaluated students by grading assignments and quizzes, and provided feedback on their work
@@ -56,8 +52,7 @@ We used LSTM, GRU, CNN and MLP on image data of Bengali words to extract Bengali
 
 ## Writing Experiences 
 You can check out a full profile of all my published writings [here](https://muckrack.com/adiba-proma). You can also check out my [medium blog](https://medium.com/@adiba.proma).  
-### Feature Writer, [The Daily Star]https://www.thedailystar.net/ ([Lifestyle](https://www.thedailystar.net/lifestyle) and [Next Step](https://www.thedailystar.net/next-step)) 
-**Role:**
+### Feature Writer, [The Daily Star] (https://www.thedailystar.net/) ([Lifestyle](https://www.thedailystar.net/lifestyle) and [Next Step](https://www.thedailystar.net/next-step)) 
 - Researched on local and international trends and collaborated with other writers
 to generate ideas for the weekly sections Lifestyle and Next Step
 - Wrote articles related to social issues, career development, musings, and lifestyle for print and online platform (click [here](https://www.thedailystar.net/author/adiba-mahbub-proma) for all published articles)
@@ -69,7 +64,6 @@ to generate ideas for the weekly sections Lifestyle and Next Step
 *The Mason Jar is a collection of short stories published by Worthy Publications, a local publishing house*
 
 ### Feature Editor, BRACUExpress
-**Role:**
 - Generated content for the features page
 - Contributed to administrative decisions regarding the paper as part of the Editorial Board 
 - Supervised writers and designers
@@ -78,7 +72,6 @@ to generate ideas for the weekly sections Lifestyle and Next Step
 *BRACUExpress is the student-led campus newspaper of BRAC University*
 
 ### Contributor, BRACUExpress
-**Role:**
 - Generated content for the features page
 - Contributed to administrative decisions regarding the paper as part of the Editorial Board 
 - Supervised writers and designers
