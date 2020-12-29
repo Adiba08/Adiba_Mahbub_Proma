@@ -18,7 +18,7 @@ Whether you need someone for a short-term project or a long-term collaboration o
 We analysed the accuracy and time complexity of ensemble learners, and then came up with an algorithm to decide what learner would work best for a specific problem in a low-resource setting. Our research involved conducting multivariate statistical analysis on binary classification datasets, and clustering via Self-Organizing Maps to  generate our rule-based algorithm.
 
 ## Previous Experiences 
-For complete CV, click here. 
+For complete CV, click [here](https://github.com/Adiba08/Adiba_Mahbub_Proma/raw/main/Adiba_Proma_CV.pdf). 
 ### Contractual Lecturer, [BRAC University](https://www.bracu.ac.bd/) *(Jan 2020-Present)* 
 **Courses conducted:** Introduction to computing (CSE101), Data Structures (CSE220), Algorithms (CSE221), Microprocessors (CSE341), Compilers (CSE420) 
 - Teaching both theory and lab classes of 40 students
