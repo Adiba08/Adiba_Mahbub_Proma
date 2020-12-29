@@ -15,7 +15,7 @@ Whether you need someone for a short-term project or a long-term collaboration o
 
 ## Research 
 ### Analyzing Ensemble Learning Algorithms using Cluster Analysis of Binary Classification Problems
-We analysed the accuracy and time complexity of ensemble learners, and then came up with an algorithm to decide what learner would work best for a specific problem in a low-resource setting. Our research involved conducting multivariate statistical analysis on binary classification datasets, and clustering via Self-Organizing Maps to  generate our rule-based algorithm.
+We analyzed the accuracy and time complexity of ensemble learners and generated a rule-based algorithm to rank these learners in a low-resource setting given user-defined constraints. Our research involved conducting multivariate statistical analysis and applying information theory to define binary classification datasets, and then clustering via Self-Organizing Maps to generate our rule-based algorithm. 
 
 ## Previous Experiences 
 For complete CV, click [here](https://github.com/Adiba08/Adiba_Mahbub_Proma/raw/main/Adiba_Proma_CV.pdf). 
